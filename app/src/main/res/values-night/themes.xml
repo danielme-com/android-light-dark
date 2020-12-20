@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- configuración específica para dark -->
+    <style name="AppTheme.LightDark" parent="Base.AppTheme.LightDark">
+        <item name="colorPrimary">@color/purple_300</item>
+        <item name="colorPrimaryVariant">@color/purple_500</item>
+        <item name="colorSecondary">@color/cyan_500</item>
+        <item name="colorSurface">@color/grey_900</item>
+        <item name="android:statusBarColor">@color/black_900</item>
+    </style>
+
+</resources>

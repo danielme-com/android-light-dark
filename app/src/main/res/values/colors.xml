@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="purple_500" type="color">#9a28a1</item>
+    <item name="purple_900" type="color">#6c0f74</item>
+    <item name="purple_300" type="color">#cd94d0</item>
+
+    <item name="red_500" type="color">#af1541</item>
+    <item name="red_300" type="color">#c75b7a</item>
+
+    <color name="white_50">#ffffff</color>
+
+    <color name="black_900">#000000</color>
+
+    <color name="grey_900">#252525</color>
+
+    <color name="cyan_500">#00bcd4</color>
+
+</resources>

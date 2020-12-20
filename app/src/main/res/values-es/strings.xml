@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="field_mandatory">Este campo es obligatorio</string>
+    <string name="field_email">Correo electrónico</string>
+    <string name="button_validate">Enviar</string>
+
+    <string name="toolbar_action_settings">Ajustes</string>
+
+    <string name="bottom_bar_share">Compartir</string>
+    <string name="bottom_bar_search">Buscar</string>
+
+    <string name="switch_notification">Enviar notificaciones</string>
+    <string name="fab_add">Añadir</string>
+
+    <string name="settings_theme_title">Seleccionar tema</string>
+    <string name="settings_theme_dialog_title">Seleccionar tema</string>
+    <string name="settings_toolbar">Ajustes</string>
+
+</resources>
