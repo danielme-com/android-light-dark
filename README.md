@@ -4,10 +4,5 @@ Código de ejemplo para los tutoriales
 2. [Android: Selección de tema claro y oscuro, pantalla de ajustes](https://danielme.com/2020/12/20/android-seleccion-de-tema-claro-y-oscuro-pantalla-de-ajustes/)
 
 
-ifdef::env-github[]
-image:https://img.youtube.com/vi/pYEodKYYASs/0.jpg[link=https://youtu.be/pYEodKYYASs]
-endif::[]
+[![](https://img.youtube.com/vi/pYEodKYYASs/0.jpg)](https://www.youtube.com/watch?v=pYEodKYYASs)
 
-ifndef::env-github[]
-video::pYEodKYYASs[youtube]
-endif::[]
