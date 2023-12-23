@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize" />
 
-    <fragment
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/settingsContainer"
         android:tag="@string/settings_fragment_tab"
         android:name="com.danielme.android.dark.settings.SettingsFragment"
         android:layout_width="match_parent"

@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Tema base con estilos comunes para light y dark. El tema de cada tipo debe heredar de este-->
+    <!-- Base theme for light and dark -->
     <style name="Base.AppTheme.LightDark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
         <item name="colorOnPrimary">@color/white_50</item>
@@ -11,7 +11,7 @@
         <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.PrimarySurface</item>
         <item name="actionOverflowButtonStyle">@style/ToolbarStyle.Overflow</item>
         <item name="toolbarNavigationButtonStyle">@style/Toolbar.Button.Navigation.Tinted</item>
-        <!-- menús -->
+        <!-- menus -->
         <item name="popupTheme">@style/Theme.MaterialComponents.DayNight</item>
     </style>
 
@@ -23,7 +23,7 @@
         <item name="tint">@color/white_50</item>
     </style>
 
-    <!-- Configuración específica para light-->
+    <!-- App theme (light version)-->
     <style name="AppTheme.LightDark" parent="Base.AppTheme.LightDark">
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_900</item>

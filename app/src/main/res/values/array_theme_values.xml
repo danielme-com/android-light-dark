@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_theme_values">
-        <item>DEFAULT</item>
-        <item>LIGHT</item>
-        <item>DARK</item>
+        <item>@string/settings_theme_value_default</item>
+        <item>@string/settings_theme_value_light</item>
+        <item>@string/settings_theme_value_dark</item>
     </string-array>
 </resources>

@@ -44,7 +44,7 @@
         app:layout_constraintStart_toStartOf="@+id/text_input_layout_email"
         app:layout_constraintTop_toBottomOf="@+id/text_input_layout_email" />
 
-    <Button
+    <com.google.android.material.button.MaterialButton
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

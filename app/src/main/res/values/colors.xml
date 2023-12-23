@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="purple_500" type="color">#9a28a1</item>
-    <item name="purple_900" type="color">#6c0f74</item>
-    <item name="purple_300" type="color">#cd94d0</item>
+    <color name="purple_500" type="color">#9a28a1</color>
+    <color name="purple_900" type="color">#6c0f74</color>
+    <color name="purple_300" type="color">#cd94d0</color>
 
-    <item name="red_500" type="color">#af1541</item>
-    <item name="red_300" type="color">#c75b7a</item>
+    <color name="red_500" type="color">#af1541</color>
+    <color name="red_300" type="color">#c75b7a</color>
 
     <color name="white_50">#ffffff</color>
 
