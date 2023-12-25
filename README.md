@@ -1,7 +1,7 @@
 Sample project for these tutorials:
 
-1. [Light & Dark Theme with Material Components](https://danielme.com/2023/12/25/android-light-and-dark-theme-selection-with-preferences-screen/)
-2. [Light and Dark Theme Selection with Preferences Screen](https://danielme.com/2020/12/20/android-seleccion-de-tema-claro-y-oscuro-pantalla-de-ajustes/)
+1. [Light & Dark Theme with Material Components](https://danielme.com/2023/12/23/android-light-and-dark-theme-with-material-components-material-design/)
+2. [Light and Dark Theme Selection with Preferences Screen](https://danielme.com/2023/12/25/android-light-and-dark-theme-selection-with-preferences-screen/)
 
 
 Proyecto de ejemplo para estos tutoriales:
